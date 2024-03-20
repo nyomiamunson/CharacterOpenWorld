@@ -1,0 +1,1402 @@
+fileFormatVersion: 2
+guid: bb3e9734361904906bdc5881f25dcba4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8572960570960332668
+    second: Zeboim_Soldier_80x80_0
+  - first:
+      213: -9190456703415302120
+    second: Zeboim_Soldier_80x80_1
+  - first:
+      213: 7192162455053617382
+    second: Zeboim_Soldier_80x80_2
+  - first:
+      213: -3369655265871159356
+    second: Zeboim_Soldier_80x80_3
+  - first:
+      213: 3735037155904976520
+    second: Zeboim_Soldier_80x80_4
+  - first:
+      213: -8750211661073951721
+    second: Zeboim_Soldier_80x80_5
+  - first:
+      213: 8773346340886422272
+    second: Zeboim_Soldier_80x80_6
+  - first:
+      213: 5518986384490125247
+    second: Zeboim_Soldier_80x80_7
+  - first:
+      213: 112775134251788577
+    second: Zeboim_Soldier_80x80_8
+  - first:
+      213: 7468610314836065872
+    second: Zeboim_Soldier_80x80_9
+  - first:
+      213: 3031934321181002735
+    second: Zeboim_Soldier_80x80_10
+  - first:
+      213: -4253596696153527527
+    second: Zeboim_Soldier_80x80_11
+  - first:
+      213: 1559764319283788402
+    second: Zeboim_Soldier_80x80_12
+  - first:
+      213: -8531579623268374496
+    second: Zeboim_Soldier_80x80_13
+  - first:
+      213: 7726697292801257554
+    second: Zeboim_Soldier_80x80_14
+  - first:
+      213: 318339692092739057
+    second: Zeboim_Soldier_80x80_15
+  - first:
+      213: -5098929901879134310
+    second: Zeboim_Soldier_80x80_16
+  - first:
+      213: -6984801522782549974
+    second: Zeboim_Soldier_80x80_17
+  - first:
+      213: 6910412438365590841
+    second: Zeboim_Soldier_80x80_18
+  - first:
+      213: 2256640611568382663
+    second: Zeboim_Soldier_80x80_19
+  - first:
+      213: 1294139136491376691
+    second: Zeboim_Soldier_80x80_20
+  - first:
+      213: 8557584918849089972
+    second: Zeboim_Soldier_80x80_21
+  - first:
+      213: 5870048292320766572
+    second: Zeboim_Soldier_80x80_22
+  - first:
+      213: 5603987662080869153
+    second: Zeboim_Soldier_80x80_23
+  - first:
+      213: 8329207946071605399
+    second: Zeboim_Soldier_80x80_24
+  - first:
+      213: -5881663121685316482
+    second: Zeboim_Soldier_80x80_25
+  - first:
+      213: 4139858866139564647
+    second: Zeboim_Soldier_80x80_26
+  - first:
+      213: -3104996929969552259
+    second: Zeboim_Soldier_80x80_27
+  - first:
+      213: -5797762927135939013
+    second: Zeboim_Soldier_80x80_28
+  - first:
+      213: 8789440206000979552
+    second: Zeboim_Soldier_80x80_29
+  - first:
+      213: 4022244467724856394
+    second: Zeboim_Soldier_80x80_30
+  - first:
+      213: 5090270239348484782
+    second: Zeboim_Soldier_80x80_31
+  - first:
+      213: -4093934088862824639
+    second: Zeboim_Soldier_80x80_32
+  - first:
+      213: 4084171671360461086
+    second: Zeboim_Soldier_80x80_33
+  - first:
+      213: -1053960746931252033
+    second: Zeboim_Soldier_80x80_34
+  - first:
+      213: 230083029054835243
+    second: Zeboim_Soldier_80x80_35
+  - first:
+      213: 2318370816343207637
+    second: Zeboim_Soldier_80x80_36
+  - first:
+      213: 6230829171814345454
+    second: Zeboim_Soldier_80x80_37
+  - first:
+      213: 4347655045690191464
+    second: Zeboim_Soldier_80x80_38
+  - first:
+      213: 7059962810678000033
+    second: Zeboim_Soldier_80x80_39
+  - first:
+      213: 3351610692015075094
+    second: Zeboim_Soldier_80x80_40
+  - first:
+      213: -5779141071367094590
+    second: Zeboim_Soldier_80x80_41
+  - first:
+      213: 9151527141591858078
+    second: Zeboim_Soldier_80x80_42
+  - first:
+      213: -4101115789958808053
+    second: Zeboim_Soldier_80x80_43
+  - first:
+      213: 77476527704931530
+    second: Zeboim_Soldier_80x80_44
+  - first:
+      213: 7348586583784750523
+    second: Zeboim_Soldier_80x80_45
+  - first:
+      213: -6832949018933608193
+    second: Zeboim_Soldier_80x80_46
+  - first:
+      213: -7387846158417475024
+    second: Zeboim_Soldier_80x80_47
+  - first:
+      213: -5127547790477526705
+    second: Zeboim_Soldier_80x80_48
+  - first:
+      213: 2128725313580682677
+    second: Zeboim_Soldier_80x80_49
+  - first:
+      213: 6685862147198777557
+    second: Zeboim_Soldier_80x80_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 414
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488ba7e38c9b60980800000000000000
+      internalID: -8572960570960332668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 413
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c2554250f47080800000000000000
+      internalID: -9190456703415302120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 414
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e84f5ca5a1bfc360800000000000000
+      internalID: 7192162455053617382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 419
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf993e83649c31d0800000000000000
+      internalID: -3369655265871159356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 414
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f994118485d330800000000000000
+      internalID: 3735037155904976520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 413
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714d438dad0019680800000000000000
+      internalID: -8750211661073951721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 414
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003220c830031c970800000000000000
+      internalID: 8773346340886422272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 417
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb750c730e0679c40800000000000000
+      internalID: 5518986384490125247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 415
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12923981368a09100800000000000000
+      internalID: 112775134251788577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 415
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e3f9dc285d5a760800000000000000
+      internalID: 7468610314836065872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 333
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb0f448338931a20800000000000000
+      internalID: 3031934321181002735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 336
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6ef3675038f4c0800000000000000
+      internalID: -4253596696153527527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 339
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3d38626565a510800000000000000
+      internalID: 1559764319283788402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 335
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a02ee88db99980800000000000000
+      internalID: -8531579623268374496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 334
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2503460004eba3b60800000000000000
+      internalID: 7726697292801257554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 336
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd48196348fa6400800000000000000
+      internalID: 318339692092739057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 337
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9770eff446fc39b0800000000000000
+      internalID: -5098929901879134310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 334
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2840f7a500011f90800000000000000
+      internalID: -6984801522782549974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_18
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 334
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935d830ff77b6ef50800000000000000
+      internalID: 6910412438365590841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_19
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 332
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2f0461ea2315f10800000000000000
+      internalID: 2256640611568382663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 249
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330df7020b4b5f110800000000000000
+      internalID: 1294139136491376691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 254
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b17d37c426a2c670800000000000000
+      internalID: 8557584918849089972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 254
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aea2e22d9967150800000000000000
+      internalID: 5870048292320766572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 258
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238004661d55cd40800000000000000
+      internalID: 5603987662080869153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 255
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79085f53f7a479370800000000000000
+      internalID: 8329207946071605399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 254
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7e6f9d82206ea0800000000000000
+      internalID: -5881663121685316482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 254
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a008074bbb37930800000000000000
+      internalID: 4139858866139564647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_27
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 258
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d748c704eb5d8e4d0800000000000000
+      internalID: -3104996929969552259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_28
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 256
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36222ce5553a8fa0800000000000000
+      internalID: -5797762927135939013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_29
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 254
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e79358c4d5af970800000000000000
+      internalID: 8789440206000979552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 176
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c258a5802e1d730800000000000000
+      internalID: 4022244467724856394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 178
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaeb1330d544a640800000000000000
+      internalID: 5090270239348484782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 182
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147087303ac6f27c0800000000000000
+      internalID: -4093934088862824639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1957290f74eda830800000000000000
+      internalID: 4084171671360461086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 176
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb415f7e8449f51f0800000000000000
+      internalID: -1053960746931252033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 179
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ac8afbb4b613300800000000000000
+      internalID: 230083029054835243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 179
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dee4c569f18c2020800000000000000
+      internalID: 2318370816343207637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_37
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 174
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa2229e1a587650800000000000000
+      internalID: 6230829171814345454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_38
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 175
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6c4caa39f55c30800000000000000
+      internalID: 4347655045690191464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_39
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 174
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a93ee165c60af160800000000000000
+      internalID: 7059962810678000033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fa5f2ba20538e20800000000000000
+      internalID: 3351610692015075094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3b4690dd5ccfa0800000000000000
+      internalID: -5779141071367094590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 96
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bbdeac271c00f70800000000000000
+      internalID: 9151527141591858078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 98
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e72cceae8e517c0800000000000000
+      internalID: -4101115789958808053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 102
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc7840dd70431100800000000000000
+      internalID: 77476527704931530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 94
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf0bf309c6bf560800000000000000
+      internalID: 7348586583784750523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 96
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0cb1ed11d7c21a0800000000000000
+      internalID: -6832949018933608193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_47
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 98
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aca48bf09197990800000000000000
+      internalID: -7387846158417475024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_48
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 102
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f497fb3937a47d8b0800000000000000
+      internalID: -5127547790477526705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_49
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 94
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdcb5ce460ca8d10800000000000000
+      internalID: 2128725313580682677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeboim_Soldier_80x80_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 15
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8730d1334f8cc50800000000000000
+      internalID: 6685862147198777557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zeboim_Soldier_80x80_0: -8572960570960332668
+      Zeboim_Soldier_80x80_1: -9190456703415302120
+      Zeboim_Soldier_80x80_10: 3031934321181002735
+      Zeboim_Soldier_80x80_11: -4253596696153527527
+      Zeboim_Soldier_80x80_12: 1559764319283788402
+      Zeboim_Soldier_80x80_13: -8531579623268374496
+      Zeboim_Soldier_80x80_14: 7726697292801257554
+      Zeboim_Soldier_80x80_15: 318339692092739057
+      Zeboim_Soldier_80x80_16: -5098929901879134310
+      Zeboim_Soldier_80x80_17: -6984801522782549974
+      Zeboim_Soldier_80x80_18: 6910412438365590841
+      Zeboim_Soldier_80x80_19: 2256640611568382663
+      Zeboim_Soldier_80x80_2: 7192162455053617382
+      Zeboim_Soldier_80x80_20: 1294139136491376691
+      Zeboim_Soldier_80x80_21: 8557584918849089972
+      Zeboim_Soldier_80x80_22: 5870048292320766572
+      Zeboim_Soldier_80x80_23: 5603987662080869153
+      Zeboim_Soldier_80x80_24: 8329207946071605399
+      Zeboim_Soldier_80x80_25: -5881663121685316482
+      Zeboim_Soldier_80x80_26: 4139858866139564647
+      Zeboim_Soldier_80x80_27: -3104996929969552259
+      Zeboim_Soldier_80x80_28: -5797762927135939013
+      Zeboim_Soldier_80x80_29: 8789440206000979552
+      Zeboim_Soldier_80x80_3: -3369655265871159356
+      Zeboim_Soldier_80x80_30: 4022244467724856394
+      Zeboim_Soldier_80x80_31: 5090270239348484782
+      Zeboim_Soldier_80x80_32: -4093934088862824639
+      Zeboim_Soldier_80x80_33: 4084171671360461086
+      Zeboim_Soldier_80x80_34: -1053960746931252033
+      Zeboim_Soldier_80x80_35: 230083029054835243
+      Zeboim_Soldier_80x80_36: 2318370816343207637
+      Zeboim_Soldier_80x80_37: 6230829171814345454
+      Zeboim_Soldier_80x80_38: 4347655045690191464
+      Zeboim_Soldier_80x80_39: 7059962810678000033
+      Zeboim_Soldier_80x80_4: 3735037155904976520
+      Zeboim_Soldier_80x80_40: 3351610692015075094
+      Zeboim_Soldier_80x80_41: -5779141071367094590
+      Zeboim_Soldier_80x80_42: 9151527141591858078
+      Zeboim_Soldier_80x80_43: -4101115789958808053
+      Zeboim_Soldier_80x80_44: 77476527704931530
+      Zeboim_Soldier_80x80_45: 7348586583784750523
+      Zeboim_Soldier_80x80_46: -6832949018933608193
+      Zeboim_Soldier_80x80_47: -7387846158417475024
+      Zeboim_Soldier_80x80_48: -5127547790477526705
+      Zeboim_Soldier_80x80_49: 2128725313580682677
+      Zeboim_Soldier_80x80_5: -8750211661073951721
+      Zeboim_Soldier_80x80_50: 6685862147198777557
+      Zeboim_Soldier_80x80_6: 8773346340886422272
+      Zeboim_Soldier_80x80_7: 5518986384490125247
+      Zeboim_Soldier_80x80_8: 112775134251788577
+      Zeboim_Soldier_80x80_9: 7468610314836065872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
