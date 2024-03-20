@@ -15,6 +15,9 @@ public class Shooting : MonoBehaviour
     // Reference to Rigidbody2D component of the player
     Rigidbody2D playerRigidbody;
 
+    // Reference to SpriteRenderer component of the player
+    SpriteRenderer spriteRenderer;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +26,9 @@ public class Shooting : MonoBehaviour
 
         // Get a reference to the Rigidbody2D component of the player
         playerRigidbody = GetComponent<Rigidbody2D>();
+
+        // Get a reference to the SpriteRenderer component of the player
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -59,27 +65,24 @@ public class Shooting : MonoBehaviour
             // Get the current state of the Animator
             AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
 
-            // Default direction (up) if no specific state is matched
-            Vector2 direction = Vector2.up;
+            // Default direction (right) if no specific state is matched
+            Vector2 direction = Vector2.right;
+
+            // If the player is facing left, adjust the direction
+            if (spriteRenderer.flipX)
+            {
+                direction = Vector2.left;
+            }
 
             // Determine the direction based on the current state of the Animator
             if (stateInfo.IsName("IdleDown"))
             {
                 direction = Vector2.down;
             }
-            else if (stateInfo.IsName("IdleRight"))
-            {
-                direction = Vector2.right;
-            }
             else if (stateInfo.IsName("IdleUp"))
             {
                 direction = Vector2.up;
             }
-            else if (stateInfo.IsName("IdleLeft")) // Handle the "IdleLeft" state
-            {
-                direction = Vector2.left;
-            }
-            // Add more conditions for other states as needed
 
             // Instantiate the bullet
             GameObject bullet = Instantiate(bulletPrefab, Spawner.position, Quaternion.identity);
